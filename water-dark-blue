@@ -11,4 +11,3 @@ platform.Position = Vector3.new(66, -10, 72.5)
 platform.Anchored = true
 platform.Transparency = 1
 platform.Parent = Workspace
-
